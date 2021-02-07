@@ -1,0 +1,6 @@
+firstNumber = input("Enter first number: ")
+secondNumber = input("Enter the number you want to divide by:")
+dividedBy = int(firstNumber)/int(secondNumber)
+wholeDividedBy = int(dividedBy)
+remainder = int(firstNumber) % int(secondNumber)
+print("{} divided by {} is {} with remainder {}".format(firstNumber, secondNumber, str(wholeDividedBy), str(remainder)))
