@@ -1,0 +1,18 @@
+What are the variable types of the following variables in the code above
+a. numberOfQuestions            Int
+b. averageAge                   float
+c. debugMode                    boolean
+d. name                         string 
+e. ages                         list
+f. months                       tuple
+g. months[1]                    String
+h. book                         Dictionary
+i. stuff                        list
+j. stuff[2]                     Boolean
+k. someone                      dictionary
+l. someone["firstname"]         string
+m. me                           dict
+n. me["teaching"]               array
+o. me["teaching"][0]["semester"] int
+p is a trick question look at it carefully
+p. me["teaching"][0]["coursename"] invalid-courseName is syntax in file
