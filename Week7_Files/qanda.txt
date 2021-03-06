@@ -1,0 +1,2 @@
+Q1: The programme will throw an error because you're trying to read data from a file that doesn't exist. 
+Q2: 
